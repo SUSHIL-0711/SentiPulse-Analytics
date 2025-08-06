@@ -1,0 +1,10 @@
+streamlit
+tweepy
+scikit-learn
+pandas
+numpy
+matplotlib
+joblib
+nltk
+plotly         # For interactive visualizations
+wordcloud     # For visualizing frequent terms

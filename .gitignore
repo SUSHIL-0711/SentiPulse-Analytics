@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+
+# Python compiled bytecode
+__pycache__/
+
+# Log files
+logs/
+
+# Trained models
+# The images show .pkl files inside the 'model' directory.
+model/*.pkl
+
+# Large data files
+# The images show 'raw_data.csv' at the root.
+raw_data.
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
