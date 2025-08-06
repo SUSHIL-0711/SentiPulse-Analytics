@@ -50,13 +50,13 @@
 ![Visual Analytics](screenshots/visual-analytics.png)
 *Interactive charts including sentiment distribution pie charts, comparison bar graphs, and real-time sentiment gauge*
 
-### 3. Detailed Results
-![Detailed Results](screenshots/detailed-results.png)
-*Structured data table with tweet content, sentiment labels, and confidence scores for comprehensive analysis*
-
-### 4. Individual Tweet Analysis
-![Individual Tweet Analysis](screenshots/individual-tweet-analysis.png)
+### 3.Individual Tweet Analysis
+![Individual Tweet Analysis](screenshots/detailed-results.png)
 *Card-based individual tweet display with sentiment badges and hover effects for detailed examination*
+
+### 4. Detailed Results 
+![Detailed Results ](screenshots/individual-tweet-analysis.png)
+*Structured data table with tweet content, sentiment labels, and confidence scores for comprehensive analysis*
 
 ---
 
@@ -286,6 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Made with ❤️ by Sushil Shetty*
 
 </div>
+
 
 
 
