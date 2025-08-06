@@ -1,4 +1,4 @@
-# 📊 SentiPulse Analytics - Advanced Twitter Sentiment Intelligence Platform
+# SentiPulse Analytics - Advanced Twitter Sentiment Intelligence Platform
 
 *Real-time Twitter sentiment analysis with professional-grade visualizations and analytics*
 
@@ -12,35 +12,35 @@
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🎯 **Core Analytics**
-- 🔍 **Smart Search**: Analyze tweets by topic, hashtag, or keywords
-- 🧠 **Advanced NLP**: LinearSVC + TF-IDF sentiment classification
-- 📊 **Real-time Processing**: Instant analysis of up to 100 tweets
-- 🎛️ **Interactive Controls**: Customizable sample sizes and analysis options
+###  **Core Analytics**
+-  **Smart Search**: Analyze tweets by topic, hashtag, or keywords
+-  **Advanced NLP**: LinearSVC + TF-IDF sentiment classification
+-  **Real-time Processing**: Instant analysis of up to 100 tweets
+- 🎛 **Interactive Controls**: Customizable sample sizes and analysis options
 
-### 📈 **Professional Visualizations**
-- 📉 **Sentiment Score Gauge**: Visual sentiment strength indicator
-- 🥧 **Distribution Charts**: Pie and bar charts for sentiment breakdown
-- 📋 **Detailed Data Tables**: Comprehensive results with confidence scores
-- 🔍 **Individual Tweet Analysis**: Card-based tweet examination
+###  **Professional Visualizations**
+-  **Sentiment Score Gauge**: Visual sentiment strength indicator
+-  **Distribution Charts**: Pie and bar charts for sentiment breakdown
+-  **Detailed Data Tables**: Comprehensive results with confidence scores
+-  **Individual Tweet Analysis**: Card-based tweet examination
 
-### 📱 **Modern Interface**
-- 🎨 **Professional Design**: Modern gradient UI with smooth animations
-- 📱 **Responsive Layout**: Optimized for desktop and mobile viewing
-- ⚡ **Fast Performance**: Efficient data processing and visualization
-- 🌙 **Elegant Styling**: Custom CSS with hover effects and transitions
+###  **Modern Interface**
+-  **Professional Design**: Modern gradient UI with smooth animations
+-  **Responsive Layout**: Optimized for desktop and mobile viewing
+-  **Fast Performance**: Efficient data processing and visualization
+-  **Elegant Styling**: Custom CSS with hover effects and transitions
 
-### 📊 **Data Intelligence**
-- 💾 **Historical Tracking**: Automatic logging of sentiment trends
-- 📈 **Trend Analysis**: Historical sentiment visualization
-- 📄 **Export Capabilities**: CSV data export for further analysis
-- 🔒 **Secure Configuration**: Environment-based API management
+###  **Data Intelligence**
+-  **Historical Tracking**: Automatic logging of sentiment trends
+-  **Trend Analysis**: Historical sentiment visualization
+-  **Export Capabilities**: CSV data export for further analysis
+-  **Secure Configuration**: Environment-based API management
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### 1. Analysis Results
 ![Analysis Results](screenshots/analysis-results.png)
@@ -60,7 +60,7 @@
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 ```
 SentiPulse-Analytics/
@@ -117,30 +117,22 @@ Open your browser to `http://localhost:8501`
 
 ---
 
-## 🌐 Live Demo
+##  Technical Specifications
 
-🔗 **[Try SentiPulse Analytics Live](your-deployed-streamlit-app-url)**
-
-*Experience real-time sentiment analysis with our deployed Streamlit application*
-
----
-
-## 🔧 Technical Specifications
-
-### 🤖 **Machine Learning Pipeline**
+###  **Machine Learning Pipeline**
 - **Text Preprocessing**: Advanced cleaning, tokenization, and normalization
 - **Feature Engineering**: TF-IDF vectorization with n-grams (1,2)
 - **Model Architecture**: LinearSVC with optimized hyperparameters
 - **Performance Metrics**: ~80.4% accuracy on validation data
 - **Prediction Confidence**: Real-time confidence scoring
 
-### 📊 **Data Processing**
+###  **Data Processing**
 - **Real-time Analysis**: Instant processing of tweet batches
 - **Scalable Architecture**: Handles 10-100 tweets per analysis
 - **Memory Optimization**: Efficient data structures and processing
 - **Error Handling**: Robust error management and user feedback
 
-### 🎨 **Frontend Technology**
+###  **Frontend Technology**
 - **Framework**: Streamlit with custom CSS styling
 - **Visualizations**: Plotly for interactive charts and graphs
 - **Responsive Design**: Mobile-friendly interface
@@ -148,7 +140,7 @@ Open your browser to `http://localhost:8501`
 
 ---
 
-## 📈 Usage Examples
+##  Usage Examples
 
 ### **Basic Sentiment Analysis**
 ```python
@@ -174,7 +166,7 @@ analysis_config = {
 
 ---
 
-## 📊 Analytics Features
+##  Analytics Features
 
 ### **Sentiment Metrics**
 - **Overall Sentiment Score**: Percentage-based sentiment strength
@@ -191,14 +183,14 @@ analysis_config = {
 
 ---
 
-## 🔒 API Usage Compliance
+##  API Usage Compliance
 
 ### **Twitter Developer Portal Description**
 > SentiPulse Analytics utilizes Twitter's API v2 to fetch public tweets based on user-specified queries for academic sentiment analysis research. The application processes tweet text through local machine learning models to determine sentiment polarity (positive/negative). All data processing occurs locally with optional logging for research purposes. No personal data is stored, shared, or distributed externally. The tool is designed for educational research, market sentiment analysis, and public opinion monitoring within Twitter's developer policy guidelines.
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```text
 streamlit>=1.28.0
@@ -213,7 +205,7 @@ requests>=2.31.0
 
 ---
 
-## 🚢 Deployment
+##  Deployment
 
 ### **Streamlit Cloud Deployment**
 1. Fork this repository to your GitHub account
@@ -236,11 +228,11 @@ streamlit run app.py --logger.level=debug
 
 We welcome contributions to SentiPulse Analytics! Please follow these steps:
 
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 Commit your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
-5. 🎯 Open a Pull Request
+1.  Fork the repository
+2.  Create a feature branch (`git checkout -b feature/amazing-feature`)
+3.  Commit your changes (`git commit -m 'Add amazing feature'`)
+4.  Push to the branch (`git push origin feature/amazing-feature`)
+5.  Open a Pull Request
 
 ---
 
@@ -250,7 +242,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### **Common Issues**
 - **Twitter API Rate Limits**: Implement appropriate delays between requests
@@ -265,7 +257,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Twitter API**: For providing access to real-time tweet data
 - **Streamlit Team**: For the amazing web framework
@@ -274,12 +266,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support & Contact
+##  Support & Contact
 
-- 📧 **Email**: sushilshetty@example.com
-- 💼 **LinkedIn**: [Connect with me](your-linkedin-profile)
-- 🐛 **Issues**: [Report bugs here](https://github.com/yourusername/sentipulse-analytics/issues)
-- 💡 **Feature Requests**: [Suggest improvements](https://github.com/yourusername/sentipulse-analytics/discussions)
+-  **Email**: sushilshetty0711@gmai.com
+-  **Issues**: [Report bugs here](https://github.com/yourusername/sentipulse-analytics/issues)
+-  **Feature Requests**: [Suggest improvements](https://github.com/yourusername/sentipulse-analytics/discussions)
 
 ---
 
@@ -287,11 +278,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sushil Shetty**
 
-*Passionate Data Scientist & AI Enthusiast*
-
-🔗 [GitHub](https://github.com/yourusername) | 💼 [LinkedIn](your-linkedin-profile) | 📧 [Email](mailto:sushilshetty@example.com)
-
----
 
 <div align="center">
 
@@ -300,8 +286,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Made with ❤️ by Sushil Shetty*
 
 </div>
----
 
-Let me know if you want a version that includes deployment instructions (e.g., Streamlit Cloud or Docker).
-```
+
 
