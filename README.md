@@ -18,7 +18,7 @@
 -  **Smart Search**: Analyze tweets by topic, hashtag, or keywords
 -  **Advanced NLP**: LinearSVC + TF-IDF sentiment classification
 -  **Real-time Processing**: Instant analysis of up to 100 tweets
-- 🎛 **Interactive Controls**: Customizable sample sizes and analysis options
+-  **Interactive Controls**: Customizable sample sizes and analysis options
 
 ###  **Professional Visualizations**
 -  **Sentiment Score Gauge**: Visual sentiment strength indicator
@@ -88,7 +88,7 @@ SentiPulse-Analytics/
 
 ### 1️⃣ **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/sentipulse-analytics.git
+git clone https://github.com/SUSHIL-0711/sentipulse-analytics.git
 cd sentipulse-analytics
 ```
 
@@ -224,7 +224,7 @@ streamlit run app.py --logger.level=debug
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions to SentiPulse Analytics! Please follow these steps:
 
@@ -236,7 +236,7 @@ We welcome contributions to SentiPulse Analytics! Please follow these steps:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sushil Shetty**
 
@@ -286,6 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Made with ❤️ by Sushil Shetty*
 
 </div>
+
 
 
 
