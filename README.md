@@ -1,4 +1,4 @@
-# SentiPulse Analytics - Advanced Twitter Sentiment Intelligence Platform
+# SentiPulse Analytics - Twitter Sentiment Intelligence Platform
 
 *Real-time Twitter sentiment analysis with professional-grade visualizations and analytics*
 
@@ -286,6 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Made with ❤️ by Sushil Shetty*
 
 </div>
+
 
 
 
